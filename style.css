@@ -1,0 +1,17 @@
+body{
+    background-color:antiquewhite;
+}
+#score{
+    font-size:20px;
+    margin-left: 20px;
+}
+#timer{
+    font-size:20px;
+    float:right;
+    margin-right:20px;
+}
+#sketch_name{
+    color:red;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight:300;
+}
